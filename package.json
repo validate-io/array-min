@@ -26,12 +26,20 @@
     "validate.io",
     "validate",
     "validation",
-    "validator"
+    "validator",
+    "valid",
+    "array",
+    "min",
+    "minimum",
+    "is",
+    "isarray"
   ],
   "bugs": {
     "url": "https://github.com/validate-io/array-min/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "validate.io-array": "^1.0.3"
+  },
   "devDependencies": {
     "chai": "2.x.x",
     "mocha": "2.x.x",
